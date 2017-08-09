@@ -9,8 +9,7 @@ public class FizzBuzz
             // If divisible by 3, Fizz
             // If divisible by 5, Buzz
             // If multiples of 3 and 5, FizzBuzz
-
-
+            
             if (i % 5 == 0 && i % 3 == 0)
             {
                 Console.WriteLine("FizzBuzz");
