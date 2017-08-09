@@ -6,6 +6,7 @@ class Palindrome
     {
         Console.WriteLine(IsPalindrome("Potato"));
         Console.WriteLine(IsPalindrome("Racecar"));
+        Console.WriteLine(IsPalindrome("DeLEVeLed"));
         Console.WriteLine(IsPalindrome("8675309"));
         Console.WriteLine(IsPalindrome("3717173"));
 
